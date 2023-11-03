@@ -1,0 +1,79 @@
+body{
+    overflow: scroll;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Red Hat Display', sans-serif;
+    background-color: white;
+}
+
+.card1{
+    position: relative;
+    background-color: black;
+    width: 35vw;
+    height: 90vh;
+    left: 30vw;
+}
+
+.card2{
+    position: relative;
+    background-color: white;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    width: 30vw;
+    height: 70vh;
+    left: 5vh;
+}
+
+h1{
+    font-size: 20px;
+    padding: 10px;
+    color: rgb(68, 168, 201);
+    text-align: justify;
+}
+
+h2{
+    font-size: 13px;
+    text-align: left;
+    padding-left: 10px;
+
+}
+
+p{
+    font-size: 10px;
+    padding-left: 10px;
+}
+
+form{
+    padding-left: 1px;
+    font-size: 13px;
+
+}
+
+input{
+    margin: 10px;
+    background-color: rgb(220, 223, 224);
+    width: 27vw;
+    height: 7vh;
+    border-style: none;
+}
+
+.enviar{
+    background-color:rgb(68, 168, 201);
+    color: white;
+    border-style: none;
+    width: 27.3vw;
+    height: 7vh;
+    position: relative;
+    left: 0.8vw;
+    top: 1vh;
+}
+
+span{
+    position: relative;
+    bottom: 5vh;
+    font-size: 10px;
+    left: 1vw;
+}
